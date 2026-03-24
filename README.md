@@ -15,10 +15,6 @@ Voice-activated Socratic tutor running on Raspberry Pi 4. Built during IgnitePre
 
 ---
 
-## What I Work With
-
-SQL · Python (pandas) · REST APIs · AWS · Supabase · OpenAI / Gemini APIs · Jira · Figma
-
----
+Open to Senior PM and Technical PM roles in gaming, sports tech, and media
 
 📬 andrewkimm16@gmail.com · www.linkedin.com/in/andrew-taewook-kim-62039620b
