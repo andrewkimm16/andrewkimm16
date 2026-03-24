@@ -9,7 +9,7 @@ I'm a Technical PM with a background in sports tech, gaming, and AI/data product
 🔍 **[DAVIS — Data Access Via Intelligent Search](https://github.com/andrewkimm16/DAVIS)**
 NL-to-SQL internal analytics platform. Originally a greenlit initiative at Genius Sports to give non-technical PMs self-serve access to product data. Rebuilt as a standalone POC after leaving the company.
 
-🤖 **[Judie — AI Voice Tutor](https://github.com/andrewkimm16/judie)**
+🤖 **[Judie — AI Voice Tutor](https://github.com/andrewkimm16/judie-voice-assistant)**
 Voice-activated Socratic tutor running on Raspberry Pi 4. Built during IgnitePrep in late 2022 — one of the earlier consumer GPT-3 integrations, which was meant to directly augment our AI tutor product.
 
 ---
