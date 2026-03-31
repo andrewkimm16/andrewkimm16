@@ -1,6 +1,6 @@
 # Andrew Kim — Technical Product Manager
 
-I'm a Technical PM with a background in sports tech, gaming, and AI/data products and building data-driven consumer platforms. I've led 0→1 product development and platform rebuilds powering large-scale engagement systems, including LLM-powered analytics tools, real-time event-driven platforms, and fan engagement experiences reaching hundreds of thousands of users. In this GitHub you'll find small projects and prototypes I built to pressure-test product ideas and stay close to the technical decisions I make with engineering teams.
+I'm a Technical PM with a background in sports tech, gaming, and AI/data products and building data-driven consumer platforms. I've led 0→1 product development and platform rebuilds powering large-scale engagement systems, including LLM-powered analytics tools, real-time event-driven platforms, and fan engagement experiences reaching hundreds of thousands of users. In this GitHub you'll find small projects and prototypes I built to pressure-test product ideas, stay close to the technical decisions I make with engineering teams, and try to solve real-world problems I've encountered in my work and in my community.
 
 ---
 
