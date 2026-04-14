@@ -12,7 +12,7 @@ NL-to-SQL internal analytics platform. Originally a greenlit initiative at Geniu
 🤖 **[Judie — AI Voice Tutor](https://github.com/andrewkimm16/judie-voice-assistant)**
 Voice-activated Socratic tutor running on Raspberry Pi 4. Built during IgnitePrep in late 2022 — one of the earlier consumer GPT-3 integrations, which was meant to directly augment our AI tutor product.
 
-🃏 **[New Kawaii: Singles & Preorders Platform](https://github.com/andrewkimm16/singles-picking-system)**
+🃏 **[New Kawaii: Singles, Inventory Management & Preorders Platform](https://github.com/andrewkimm16/singles-picking-system)**
 Full-stack TCG retail platform built for a real local game store in Westchester County, NY. Includes a customer-facing singles storefront with fuzzy search, a fair-access preorder queue engine with heartbeat mechanics, a staff picking workflow for physical inventory fulfillment, and a full admin CMS. Live at [singles-picking-system.vercel.app](https://singles-picking-system.vercel.app).
 
 ---
